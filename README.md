@@ -19,7 +19,5 @@ assets/ → Images, icons, etc.
 
 
 ## 🔧 Usage
-Clone this repository and open `index.html` in your browser:
-```bash
-git clone https://github.com/your-username/portfolio.git[link]
+https://vijayshankar-26.github.io/portfolio-simple-website/
 
